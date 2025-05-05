@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Animal Gallery</title>
+
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    .banner {
+      background-image: url('https://loremflickr.com/1200/300/animals,nature');
+      background-size: cover;
+      background-position: center;
+      height: 300px;
+      position: relative;
+    }
+
+    .banner-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-color: rgba(0,0,0,0.5);
+    }
+
+    .banner-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: white;
+      text-align: center;
+      z-index: 1;
+    }
+
+    /* Card Section */
+    .card {
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card img {
+      border-radius: 10px 10px 0 0;
+      height: 200px;
+      object-fit: cover;
+    }
+
+    .card-body {
+      background-color: #f8f9fa;
+    }
+
+    /* Margin for cards */
+    .card-container {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 🔹 Top Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Animal Gallery</a>
+    </div>
+  </nav>
+
+  <!-- 🔹 Banner Section -->
+  <section class="banner mb-5">
+    <div class="banner-overlay"></div>
+    <div class="banner-text">
+      <h1>Welcome to the Animal World</h1>
+      <p>Explore different types of animals</p>
+    </div>
+  </section>
+
+  <!-- 🔹 Card Section -->
+  <div class="container card-container">
+    <div class="row" id="all-data">
+      <!-- Cards from API will load here -->
+    </div>
+  </div>
+
+  <!-- 🔹 Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- 🔹 Your Custom JS -->
+  <script src="script.js"></script>
+
+</body>
+</html>

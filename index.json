@@ -1,0 +1,239 @@
+[
+    {
+        "image_id": "101",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/47547/squirrel-animal-cute-rodents-47547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A brown bear stands in a river, patiently waiting to catch a leaping salmon for its meal."
+    },
+
+    
+    {
+        "image_id": "102",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A lion rests on a rocky ledge, gazing across the savannah under a bright afternoon sun."
+    },
+
+    
+    {
+        "image_id": "103",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A graceful giraffe stretches its neck to nibble leaves from the top of a tall acacia tree."
+    },
+
+    
+    {
+        "image_id": "104",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A colorful parrot perches on a tree branch, its vibrant feathers glowing under the tropical sun."
+    },
+    
+    {
+        "image_id": "105",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A playful panda cub tumbles down a grassy hill, its fluffy fur catching bits of leaves and dirt."
+    },
+    
+    {
+        "image_id": "106",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/53125/elephant-tusk-ivory-animal-53125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A baby elephant splashes joyfully in a shallow mud puddle, flinging droplets with its tiny trunk."
+    },
+
+    
+    {
+        "image_id": "107",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/847393/pexels-photo-847393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A sea turtle glides smoothly through crystal-clear water, surrounded by colorful coral and tropical fish."
+    },
+    
+    {
+        "image_id": "108",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/1319515/pexels-photo-1319515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A herd of zebras grazes peacefully under the African sun, stripes blending with tall golden grasses."
+    },
+
+    
+    {
+        "image_id": "109",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/75973/pexels-photo-75973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A flock of starlings dances across the sunset sky, forming swirling shapes in perfect synchronized flight."
+    },
+
+    
+    {
+        "image_id": "110",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/750539/pexels-photo-750539.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A herd of zebras grazes peacefully under the African sun, stripes blending with tall golden grasses."
+    },
+
+    
+    {
+        "image_id": "111",
+        "image_catogory": "Animals",
+        "image_url" : "http://images.pexels.com/photos/106690/pexels-photo-106690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : " snake coils on a sun-warmed rock, tongue flicking as it senses vibrations in the air."
+    },
+
+    
+    {
+        "image_id": "112",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/598966/pexels-photo-598966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A polar bear trudges across the ice, white fur almost blending with the endless snowy landscape."
+    },
+
+    
+    {
+        "image_id": "113",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/1299391/pexels-photo-1299391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "penguins enjoying peacefully"
+    },
+    
+    {
+        "image_id": "114",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_description" : "Two dolphins leap gracefully from ocean waves, sparkling water droplets frozen mid-air around them"
+    },
+    
+    {
+        "image_id": "115",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/53977/eagle-owl-raptor-falconry-owl-53977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "An owl sits silently on a branch at night, glowing eyes fixed on something moving below."
+    },
+
+    
+    {
+        "image_id": "116",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/62325/crocodile-namibia-animals-safari-62325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A crocodile floats just beneath the water’s surface, its eyes and snout barely visible above."
+    },
+
+    
+    {
+        "image_id": "117",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/3550969/pexels-photo-3550969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : " peacock spreads its feathers in a dazzling display of color and symmetry to impress a mate."
+    },
+
+    
+    {
+        "image_id": "118",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/31837839/pexels-photo-31837839/free-photo-of-duck-with-ducklings-by-the-water-in-washington-dc.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A family of ducks waddles across a park path, ducklings trailing close behind their mother."
+    },
+    
+    {
+        "image_id": "119",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/30755369/pexels-photo-30755369/free-photo-of-silhouettes-of-birds-in-winter-trees.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" :"crows are flying in the air"
+    },
+    
+    {
+        "image_id": "120",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "cats are soo cutess"
+    },
+
+    
+    {
+        "image_id": "121",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/3493730/pexels-photo-3493730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "monkeys are hugging"
+    },
+
+    
+    {
+        "image_id": "122",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/3493730/pexels-photo-3493730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A pair of wolves stand alert at the edge of a forest, ears perked and noses sniffing."
+    },
+
+    
+    {
+        "image_id": "123",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/31393412/pexels-photo-31393412/free-photo-of-expressive-raccoon-pair-in-woodland-setting.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : " raccoon rummages through leaves near a campsite, its paws and face dusted with dirt."
+    },
+
+    
+    {
+        "image_id": "124",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/357159/pexels-photo-357159.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "its an flying owl"
+    },
+
+    
+    {
+        "image_id": "125",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/1680214/pexels-photo-1680214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "flamingos are drniking water peacefully"
+    },
+
+    
+    {
+        "image_id": "126",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/2629372/pexels-photo-2629372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A hummingbird hovers mid-air, its wings a blur as it sips nectar from a red flower."
+    },
+
+    
+    {
+        "image_id": "127",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/2446439/pexels-photo-2446439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A school of colorful fish swim together through coral reefs, darting in and out of rocky crevices."
+    },
+
+    
+    {
+        "image_id": "128",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/2573494/pexels-photo-2573494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : " kangaroo hops across the Australian outback, its joey peeking out from its pouch."
+    },
+
+    
+    {
+        "image_id": "129",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/31819932/pexels-photo-31819932/free-photo-of-close-up-portrait-of-a-brown-alpaca.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "fluffy alpaca"
+    },
+
+    
+    {
+        "image_id": "130",
+        "image_catogory": "Animals",
+        "image_url" : "https://images.pexels.com/photos/31819929/pexels-photo-31819929/free-photo-of-west-highland-white-terrier-meeting-an-alpaca.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image_description" : "A fluffy alpaca stands in a mountain meadow, surrounded by colorful wildflowers and blue skies."
+    }
+
+    
+
+
+
+
+]
